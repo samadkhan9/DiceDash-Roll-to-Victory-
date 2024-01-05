@@ -90,8 +90,7 @@ btnHold.addEventListener('click', function () {
         } else {
             switchPlayer();
         }
-        //switch to the next player 
-        switchPlayer();
+        //switch to the next player
     }
 });
 //new game functionality 
